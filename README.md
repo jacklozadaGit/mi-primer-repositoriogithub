@@ -1,2 +1,2 @@
-# mi-primer-repo
+# mi primer readme
 Este es mi primer repositorio de GitHub
